@@ -8,12 +8,10 @@ Tipos: `feat` (nova funcionalidade), `fix` (correção), `style` (visual ou layo
 
 | Data | Integrante | Tipo | Arquivo(s) | Descrição |
 |---|---|---|---|---|
-| 2026-11-30 | Gilberto | style | site/index.html, site/css/style.css | Favicon adicionada em todas as páginas. |
-| 2026-11-29 | Maria | fix | site/js/main.js | Corrigido o menu de navegação, que não fechava ao clicar em um link no celular. |
-| 2026-11-28 | João | style | site/assets/img/logo.svg | Logotipo alterado para combinar com a paleta escolhida para o site. |
+| 2026-11-01 | LArry | style | site/index.html, figma | Mudou a interface da home, mudando os icons dos integrantes quadrados organizados em 2 colunas para banners maiores. |
 
 ## v0.1 - Início do projeto (2026-10-XX)
 
 | Data | Integrante | Tipo | Arquivo(s) | Descrição |
 |---|---|---|---|---|
-| 2026-10-30 | Gilberto | docs | docs/01-escopo.md | Escopo inicial do projeto criado. |
+| 2026-10-27 | Larry | figma | docs/01-escopo.md | Criou o figma. |
