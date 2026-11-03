@@ -14,4 +14,4 @@ Tipos: `feat` (nova funcionalidade), `fix` (correção), `style` (visual ou layo
 
 | Data | Integrante | Tipo | Arquivo(s) | Descrição |
 |---|---|---|---|---|
-| 2026-10-27 | Larry | figma | docs/01-escopo.md | Criou o figma. |
+| 2026-10-27 | Larry | figma | não há | Criou o figma. |
