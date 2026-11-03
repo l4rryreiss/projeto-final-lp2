@@ -1,28 +1,28 @@
 ---
-titulo: Projeto final - Laboratório de Programação 2 (Web)
+titulo: Projeto final - Site de Fã Gorillaz
 descricao: Visão geral do projeto, integrantes, link do site publicado, do protótipo no Figma e da apresentação, além da organização do repositório.
-autores: Nome do integrante 1, Nome do integrante 2, Nome do integrante 3
+autores: Gabriel Augusto dos Reis Morais, Larry César (Ana Luisa) Borges Reis, Thauany Bernardes Pereira
 versao: v1.0
-ultima_atualizacao: Dia/mês/ano
+ultima_atualizacao: 03/11/2026
 arquivos_relacionados: CHANGELOG.md, docs/uso-de-IA.md, docs/versoes/v1.0-final.md
 ---
 
-# [Nome do projeto]
+# [Site de Fã Gorillaz ]
 
-[Descrição em uma ou duas frases: qual problema o site resolve e para quem.]
+[Nosso site de fã do Gorillaz tem o objetivo de trazer informações mais detalhadas sobre a história da banda. Pois, enquanto o site oficial há muitas pouca informações sobre o background da banda, a wiki, por sua vez, é muito extensa. Assim, nosso objetivo é servir como um guia para os fãs que querem ler sobre sua banda favorita e para novos fãs que querem entender mais sobre o Gorillaz.]
 
 ## Integrantes
 
 | Nome | Onde atuou no projeto? (Mínimo de 3 frentes diferentes para cada aluno) |
 |---|---|
-| [Nome completo] | [Ex.: Figma, estrutura HTML e documentação] |
-| [Nome completo] | [Ex.: estilos CSS, JS e responsividade] |
-| [Nome completo] | [Ex.: Atualização da documentação do github, interatividade em JavaScript e apresentação] |
+| [Gabriel Augusto dos Reis Morais] | [Ex.: Figma, ??? e ???] |
+| [Larry César (Ana Luisa) Borges Reis ] | [Ex.: Figma, atualização do documento no github e ???] |
+| [Thauany Bernardes Pereira] | [Ex.: Figma, ??? e ???] |
 
 ## Links
 
 - **Site publicado (GitHub Pages):** [https://USUARIO.github.io/projeto-final-lp2/](https://USUARIO.github.io/projeto-final-lp2/)
-- **Protótipo no Figma:** [link]
+- **Protótipo no Figma:** https://www.figma.com/design/278Vj83CcRSjn0120SSEYw/TRABALHO-FINAL-GILBERTO-GORILLAZ?node-id=0-1&t=ZC9ORut0v2OF3KQX-1
 - **Apresentação:** [link dos slides]
 
 ## Estrutura do repositório
