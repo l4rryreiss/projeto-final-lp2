@@ -13,4 +13,7 @@
 # Decisões de design
 
 
-# Fontes de ícones e imagens usadas no site
+# Fontes de ícones e imagens usadas no site:
+https://gorillaz.fandom.com/wiki/Gorillaz <br>
+https://br.pinterest.com/ 
+
