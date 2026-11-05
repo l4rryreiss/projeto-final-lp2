@@ -3,7 +3,7 @@ titulo: Projeto final - Site de Fã Gorillaz
 descricao: Visão geral do projeto, integrantes, link do site publicado, do protótipo no Figma e da apresentação, além da organização do repositório.
 autores: Gabriel Augusto dos Reis Morais, Larry César (Ana Luisa) Borges Reis, Thauany Bernardes Pereira
 versao: v1.0
-ultima_atualizacao: 03/11/2026
+ultima_atualizacao: 05/11/2026
 arquivos_relacionados: CHANGELOG.md, docs/uso-de-IA.md, docs/versoes/v1.0-final.md
 ---
 
