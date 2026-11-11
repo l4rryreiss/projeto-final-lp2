@@ -25,9 +25,9 @@ O modelo de dúvidas tiradas com a assistencia de IA deverão ter o seguinte for
 
 | Data | Ferramenta | Etapa | Arquivo(s) afetado(s) | Motivo do uso e erro antes do uso | O que foi feito com a resposta | Link ou print |
 |---|---|---|---|---|---|---|
-| 2026-11-02 | ChatGPT | Construção de Interface no Figma | Figma | Dúvida sobre como organizar as seções de conteúdo das fases | prints/ia-01.png |
-| 2026-11-12 | ChatGPT | Construção de interface do figma  | Figma | Dúvida em como fazer o hero da página integrantes na versão mobile.  | prints/ia-02.png |
-| 2026-11-19 | Gemini | Validação do formulário | site/js/main.js | O envio aceitava campos vazios e e-mail inválido; não tínhamos certeza de como validar em JavaScript | Não usei o trecho sugerido; implementei a validação com `required` no HTML e revisei a lógica com o professor | prints/ia-03.png |
+| 2026-11-02 | ChatGPT | Construção de Interface no Figma | Figma | Dúvida sobre como organizar as seções de conteúdo das fases  | A interface da parte das fases no figma | |  prompt1 |
+| 2026-11-12 | ChatGPT | Construção de interface do figma  | Figma | Dúvida em como fazer o hero da página integrantes na versão mobile.  | O hero da página dos integrantes | A hero da página dos integrantes na versão mobile | prompt2 |
+| 2026-11-11 | ChatCGPT | Código do header no html | index.html | Dúvida em como escrever o código do header, na medida que há um botão nele na interface do mobile e não há na interface do computador | O  código do header no html | prompt3 |
 
 
 
