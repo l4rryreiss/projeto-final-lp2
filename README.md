@@ -17,7 +17,7 @@ arquivos_relacionados: CHANGELOG.md, docs/uso-de-IA.md, docs/versoes/v1.0-final.
 |---|---|
 | [Gabriel Augusto dos Reis Morais] | [Ex.: Figma, ??? e ???] |
 | [Larry César (Ana Luisa) Borges Reis ] | [Ex.: Figma, atualização do documento no github e ???] |
-| [Thauany Bernardes Pereira] | [Ex.: Figma, ??? e ???] |
+| [Thauany Bernardes Pereira] | [Ex.: Figma, HTML e ???] |
 
 ## Links
 
