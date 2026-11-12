@@ -1,0 +1,63 @@
+
+.discografia {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.carrossel {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    position: relative;
+}
+
+.palco {
+    width: 450px;
+    height: 230px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.album {
+    width: 180px;
+    height: 180px;
+    object-fit: cover;
+    position: absolute;
+    transition: all 0.5s ease;
+    opacity: 0;
+}
+.album.centro {
+    width: 180px;
+    height: 180px;
+    opacity: 1;
+    z-index: 3;
+    transform: translateX(0) scale(1);
+}
+.album.esquerda {
+    opacity: 1;
+    z-index: 2;
+    transform: translateX(-170px) scale(0.8);
+}
+
+.album.direita {
+    opacity: 1;
+    z-index: 2;
+    transform: translateX(170px) scale(0.8);
+}
+
+.seta {
+    background: none;
+    border: none;
+    color: #704c68;
+    font-size: 45px;
+    cursor: pointer;
+    z-index: 5;
+    padding: 30px;
+}
