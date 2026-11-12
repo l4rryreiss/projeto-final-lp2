@@ -16,7 +16,7 @@ arquivos_relacionados: CHANGELOG.md, docs/uso-de-IA.md, docs/versoes/v1.0-final.
 | Nome | Onde atuou no projeto? (Mínimo de 3 frentes diferentes para cada aluno) |
 |---|---|
 | [Gabriel Augusto dos Reis Morais] | [Ex.: Figma, ??? e ???] |
-| [Larry César (Ana Luisa) Borges Reis ] | [Ex.: Figma, atualização do documento no github, HTML] |
+| [Larry César (Ana Luisa) Borges Reis ] | [Ex.: Figma, CSS, HTML] |
 | [Thauany Bernardes Pereira] | [Ex.: Figma, HTML e ???] |
 
 ## Links
